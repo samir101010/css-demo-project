@@ -18,7 +18,7 @@ body {
   background-image: linear-gradient(
       to right bottom,
       rgba(5, 138, 220, 0.868),
-      rgba(235, 18, 18, 0.91)
+      rgba(235, 18, 18, 0.8)
     ),
     url("../img/nature.jpg");
   background-size: cover;
