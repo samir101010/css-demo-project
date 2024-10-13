@@ -27,7 +27,7 @@ body {
   clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
 }
 h5 {
-  color: rgb(131, 63, 0);
+  color: rgba(131, 63, 0, 0.8);
 }
 
 .logo-box {
